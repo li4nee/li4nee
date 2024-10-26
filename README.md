@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nishant Pokharel</h1>
-<h3 align="center">🔭 I’m currently working on bitmoro.com and a mental health discussion platform.</h3>
 <h3 align="center">🌱 I’m currently learning how to build robust and scalable backend systems.</h3>
 <h3 align="center">👯 I'm always open to collaborating on exciting and innovative projects</h3>
 
