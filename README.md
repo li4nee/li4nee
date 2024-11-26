@@ -40,6 +40,9 @@
 
 <br>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=li4nee&layout=compact)
+
+
 
 
 
