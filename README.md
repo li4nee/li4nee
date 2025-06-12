@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nishant Pokharel</h1>
-<h3 align="center">👯 I'm always open to collaborating on exciting and innovative projects</h3>
 
 
 
